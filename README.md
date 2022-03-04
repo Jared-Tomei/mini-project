@@ -29,7 +29,7 @@ While in the home file you can start the python wrapper by inputting.
 ```
 python3 Miniproj.py
 ```
-This will start the wrapper and bring up the SPAdes config. Navigate over to cache by pressing C, hit o to chose the location of user repositry and set it to your home file /results/SPAdes_output.
+This will start the wrapper and bring up the SPAdes config. Navigate over to cache by pressing C, hit o to chose the location of user repositry and set it to your home file /results/SPAdes_output using enter to confirm and tab and arrows to navigate between options.
 
 This will be the only user input nessecary, the program will run through the retrived test data.
 # Results
