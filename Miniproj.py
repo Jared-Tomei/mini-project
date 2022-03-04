@@ -2,6 +2,7 @@ import os
 #Creates a directory to store all the results
 os.system("mkdir results")
 os.system("mkdir results/SPAdes_output")
+#Sets the output location for SPAdes with user input
 os.system("vdb-config -i")
 #Creates a log file to output to
 outfile = open('results/miniproject.log', 'w')
